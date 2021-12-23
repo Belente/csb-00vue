@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://belente.github.io/csb-00vue/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://belente.github.io/csb-00vue/static/js/main.ad00b671.chunk.js",
+    "main.js.map": "https://belente.github.io/csb-00vue/static/js/main.ad00b671.chunk.js.map",
+    "runtime-main.js": "https://belente.github.io/csb-00vue/static/js/runtime-main.4361bf7e.js",
+    "runtime-main.js.map": "https://belente.github.io/csb-00vue/static/js/runtime-main.4361bf7e.js.map",
+    "static/js/2.6abcd587.chunk.js": "https://belente.github.io/csb-00vue/static/js/2.6abcd587.chunk.js",
+    "static/js/2.6abcd587.chunk.js.map": "https://belente.github.io/csb-00vue/static/js/2.6abcd587.chunk.js.map",
+    "index.html": "https://belente.github.io/csb-00vue/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://belente.github.io/csb-00vue/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6abcd587.chunk.js.LICENSE.txt": "https://belente.github.io/csb-00vue/static/js/2.6abcd587.chunk.js.LICENSE.txt",
+    "static/media/image1.808833ab.jpeg": "https://belente.github.io/csb-00vue/static/media/image1.808833ab.jpeg",
+    "static/media/image2.d6e2aa99.jpeg": "https://belente.github.io/csb-00vue/static/media/image2.d6e2aa99.jpeg",
+    "static/media/image3.b5c8e772.jpeg": "https://belente.github.io/csb-00vue/static/media/image3.b5c8e772.jpeg",
+    "static/media/image4.a508b42c.jpeg": "https://belente.github.io/csb-00vue/static/media/image4.a508b42c.jpeg",
+    "static/media/image5.b53cf11e.jpeg": "https://belente.github.io/csb-00vue/static/media/image5.b53cf11e.jpeg",
+    "static/media/image6.03053c00.jpeg": "https://belente.github.io/csb-00vue/static/media/image6.03053c00.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4361bf7e.js",
+    "static/js/2.6abcd587.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ad00b671.chunk.js"
+  ]
+}
